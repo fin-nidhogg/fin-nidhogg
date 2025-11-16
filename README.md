@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Ari-Pekka Kantola</h1>
-<h3 align="center">I'm third year business IT student & Passionate computer enthusiast</h3>
+<h3 align="center">I'm a Business IT graduate & a passionate computer enthusiast</h3>
 
 - 🌱 I’m currently learning **Javascript, React, Next.js**
 
